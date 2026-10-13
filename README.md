@@ -9,9 +9,9 @@
 O objetivo é complementar a formação básica em sala de aula com novos conhecimentos alinhados com o perfil de estágio.
 
 ### Cursos Online Selecionados (Codecademy):
-·Learn JavaScript | Codecademy
-·Learn CSS: Box Model and Layout | Codecademy
-·Learn React: Introduction | Codecademy
+·[Learn JavaScript | Codecademy](https://www.codecademy.com/enrolled/courses/introduction-to-javascript)
+·[Learn CSS: Box Model and Layout | Codecademy](https://www.codecademy.com/learn/learn-css-box-model-and-layout)
+·[Learn React: Introduction | Codecademy](https://www.codecademy.com/learn/learn-react-introduction)
 
 
 ---
