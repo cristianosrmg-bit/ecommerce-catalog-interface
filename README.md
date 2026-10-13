@@ -26,3 +26,12 @@ Conceção e desenvolvimento de um website moderno, dinâmico e responsivo focad
 * **Estrutura e Estilização Base:** Estruturação com HTML5 semântico e estilização avançada com CSS3 (CSS Grid e Flexbox).
 * **Design Responsivo:** Utilização da framework Bootstrap para adaptação a telemóveis, tablets e computadores.
 * **Interatividade em React:** Componentes reutilizáveis em React para criação de filtros interativos por categoria e simulação do carrinho de compras.
+  
+---
+
+## Progresso do Estudo Autónomo
+
+Acompanhamento e comprovativos de evolução nos cursos selecionados:
+
+### 1. Learn JavaScript (Codecademy)
+<img width="1032" height="593" alt="image" src="https://github.com/user-attachments/assets/ad792a42-1bee-4c25-977d-92354d2d4cff" />
