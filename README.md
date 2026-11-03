@@ -35,3 +35,8 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 
 ### 1. Learn JavaScript (Codecademy)
 <img width="1032" height="593" alt="image" src="https://github.com/user-attachments/assets/ad792a42-1bee-4c25-977d-92354d2d4cff" />
+
+### 2. Learn JavaScript (Codecademy) — Introduction to JavaScript / 25% Concluído
+<img width="375" height="936" alt="image" src="https://github.com/user-attachments/assets/6a8d7927-595a-43e5-b5e9-c04678f61d18" />
+
+
