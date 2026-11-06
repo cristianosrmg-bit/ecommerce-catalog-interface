@@ -42,3 +42,9 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 ### 3. Learn JavaScript (Codecademy) — Variables / 50% Concluído
 <img width="385" height="933" alt="Captura de ecrã 2026-11-03 104422" src="https://github.com/user-attachments/assets/ba4af3ec-ce76-40de-b42e-0b8a25205520" />
 
+### 4. Learn JavaScript (Codecademy) — Introduction / 100% Concluído
+<img width="389" height="937" alt="image" src="https://github.com/user-attachments/assets/3aca9df0-d8ac-47ec-a769-97a220d1743a" />
+<img width="393" height="939" alt="image" src="https://github.com/user-attachments/assets/0e5c69a9-071f-4d5a-9c6c-1bc885e4eead" />
+
+
+
