@@ -46,9 +46,14 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 <img width="389" height="937" alt="image" src="https://github.com/user-attachments/assets/3aca9df0-d8ac-47ec-a769-97a220d1743a" />
 <img width="393" height="939" alt="image" src="https://github.com/user-attachments/assets/0e5c69a9-071f-4d5a-9c6c-1bc885e4eead" />
 
-### 4. Learn JavaScript (Codecademy) — Conditionals / 100% Concluído (apenas a parte de graça)
+### 5. Learn JavaScript (Codecademy) — Conditionals / 100% Concluído (apenas a parte de graça)
 <img width="381" height="943" alt="image" src="https://github.com/user-attachments/assets/0e1ab0c0-6c6d-4d49-8611-415d96bf5436" />
 <img width="390" height="925" alt="image" src="https://github.com/user-attachments/assets/122ed448-346f-457b-8b2d-e8823404b935" />
+
+### 6. Learn JavaScript (Codecademy) — Functions / 100% Concluído (apenas a parte de graça)
+<img width="391" height="933" alt="image" src="https://github.com/user-attachments/assets/b0394f0d-9252-41fa-a37f-5f14f579f55b" />
+<img width="389" height="942" alt="image" src="https://github.com/user-attachments/assets/45472977-e3e6-4509-a837-ee01fcf47fd0" />
+
 
 
 
