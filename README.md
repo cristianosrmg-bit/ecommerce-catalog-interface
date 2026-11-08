@@ -54,6 +54,10 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 <img width="391" height="933" alt="image" src="https://github.com/user-attachments/assets/b0394f0d-9252-41fa-a37f-5f14f579f55b" />
 <img width="389" height="942" alt="image" src="https://github.com/user-attachments/assets/45472977-e3e6-4509-a837-ee01fcf47fd0" />
 
+### 7. Learn JavaScript (Codecademy) — Scope / 100% Concluído (apenas a parte de graça)
+<img width="385" height="937" alt="image" src="https://github.com/user-attachments/assets/c7f473a0-9ee5-4931-9ad2-1b063c7cfca9" />
+<img width="387" height="945" alt="image" src="https://github.com/user-attachments/assets/f906882f-d631-4ee0-b8e5-a1baaaab554f" />
+
 
 
 
