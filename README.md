@@ -62,4 +62,10 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 <img width="390" height="939" alt="image" src="https://github.com/user-attachments/assets/38739509-29c0-4a79-9bd8-7a72a9f9aa86" />
 <img width="388" height="937" alt="image" src="https://github.com/user-attachments/assets/da16366a-0aaf-4b31-a6c2-505fc8b37ca9" />
 
+### 8. Learn JavaScript (Codecademy) — Loops / 100% Concluído (apenas a parte de graça)
+<img width="391" height="938" alt="image" src="https://github.com/user-attachments/assets/e61e03ea-fe06-4733-bdf0-e53979f1eed2" />
+<img width="391" height="937" alt="image" src="https://github.com/user-attachments/assets/12dace15-759b-4bfa-9937-eeb3be10ab57" />
+
+
+
 
