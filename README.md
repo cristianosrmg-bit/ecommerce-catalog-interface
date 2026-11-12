@@ -70,6 +70,8 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 <img width="389" height="935" alt="image" src="https://github.com/user-attachments/assets/a2f252cc-ff02-445f-80c6-c158467096af" />
 <img width="391" height="934" alt="image" src="https://github.com/user-attachments/assets/2cbb73ca-a142-46de-b5da-d26a1e9ae09e" />
 
-
+### 11. Learn JavaScript (Codecademy) — Objects / 100% Concluído (apenas a parte de graça)
+<img width="390" height="933" alt="image" src="https://github.com/user-attachments/assets/3a0c092d-0963-4ef7-8a92-7b76af380dd8" />
+<img width="388" height="937" alt="image" src="https://github.com/user-attachments/assets/31d1dd0c-dc82-4e3e-9937-893f7d9241cb" />
 
 
