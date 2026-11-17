@@ -76,3 +76,8 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 
 ### 12. Learn JavaScript (Codecademy) — Curso JavaScript 100% Concluído
 <img width="1706" height="937" alt="image" src="https://github.com/user-attachments/assets/96df8d9f-9b60-4776-b220-d95d3afa59a7" />
+
+### 13. Learn CSS:Box Model and Layout (Codecademy) — The Box Model 100% Concluído
+<img width="389" height="935" alt="image" src="https://github.com/user-attachments/assets/4aba5ab7-422e-44b5-b8a0-56a124d30e88" />
+<img width="384" height="931" alt="image" src="https://github.com/user-attachments/assets/e6858034-8046-45d6-a414-f188bdbe9673" />
+
