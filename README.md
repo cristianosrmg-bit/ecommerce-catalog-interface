@@ -81,3 +81,6 @@ Acompanhamento e comprovativos de evolução nos cursos selecionados:
 <img width="389" height="935" alt="image" src="https://github.com/user-attachments/assets/4aba5ab7-422e-44b5-b8a0-56a124d30e88" />
 <img width="384" height="931" alt="image" src="https://github.com/user-attachments/assets/e6858034-8046-45d6-a414-f188bdbe9673" />
 
+### 14. Learn CSS:Box Model and Layout (Codecademy) — Changing The Box Model 100% Concluído
+<img width="390" height="935" alt="image" src="https://github.com/user-attachments/assets/50cd649c-1c48-4ca8-a05f-ac6f20d8c8de" />
+
